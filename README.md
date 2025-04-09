@@ -55,7 +55,7 @@ To perform a broadband jamming attack that targets the controller's connection:
 
  
 
-HackRF Tools Documentation 
+HackRF Tools Documentation: https://hackrf.readthedocs.io/en/latest/hackrf_tools.html
 
 Configuration 
 
